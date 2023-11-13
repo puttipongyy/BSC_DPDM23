@@ -2,9 +2,6 @@
 Data preparation And Data Mining <br>
 พุทธิพงศ์ ยางนอก 643021268-1
 
-# BSC_DPDM23
-Data Preparation And Data Mining 2023
-
 # Score
 - Midterm (data prepocessing ปฏิบัติ(เดี่ยว))20%
 - Final (ทฤษฎี data mining เดี่ยว)20%
