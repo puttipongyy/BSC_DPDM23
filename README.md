@@ -11,3 +11,9 @@ Data preparation And Data Mining <br>
 - GitHub 5%
 
   Final Score = Score * %attendance
+
+Project กลุ่ม 3 ทองประเสริฐกลุ้ม
+https://github.com/puttipongyy/BSC_DPDM23/blob/1c2ea524283782080ea4404255f129b8b1414c9f/Final_Project.ipynb
+
+
+
