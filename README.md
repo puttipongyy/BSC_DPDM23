@@ -13,10 +13,10 @@ Data preparation And Data Mining <br>
   Final Score = Score * %attendance
 
 # Homework
-- HW 1 [:cookie: :milk_glass:](https://github.com/puttipongyy/BSC_DPDM23/blob/a31eb4e0b9190acaefd0b5737820ffc4a412a223/HW1_Group%20%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%89%E0%B8%A1.pdf)
+- HW 1 [:cookie: :milk_glass:](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - HW 2 [:seedling:](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-- HW 4 :pencil:[Hand write](https://github.com/puttipongyy/BSC_DPDM23/blob/7e673630071ff355b312b0e58bf3ae5a2fae7579/HW4_criterionmax-leaf-nodes.pdf)
-[Presentation](https://github.com/puttipongyy/BSC_DPDM23/blob/b5b023fe404284298a951e27d4e908b33420422a/HW4_Decision%20Tree_Presentation.pdf)
+- HW 4 :pencil:[Hand write](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[Presentation](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
 # Project
