@@ -12,8 +12,20 @@ Data preparation And Data Mining <br>
 
   Final Score = Score * %attendance
 
+# Homework
+- HW 1 [click](https://github.com/puttipongyy/BSC_DPDM23/blob/a31eb4e0b9190acaefd0b5737820ffc4a412a223/HW1_Group%20%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%89%E0%B8%A1.pdf)
+- HW 2 [Click](https://github.com/puttipongyy/BSC_DPDM23/blob/a31eb4e0b9190acaefd0b5737820ffc4a412a223/HW2_643021268-1.pdf)
+- HW 4 [Hand write](https://github.com/puttipongyy/BSC_DPDM23/blob/7e673630071ff355b312b0e58bf3ae5a2fae7579/HW4_criterionmax-leaf-nodes.pdf)
+[Slide]()
+
+
+# Project
 Project กลุ่ม 3 ทองประเสริฐ + กลุ้ม
-https://github.com/puttipongyy/BSC_DPDM23/blob/1c2ea524283782080ea4404255f129b8b1414c9f/Final_Project.ipynb
+[Collab](https://github.com/puttipongyy/BSC_DPDM23/blob/1c2ea524283782080ea4404255f129b8b1414c9f/Final_Project.ipynb) 
+[Slide](https://github.com/puttipongyy/BSC_DPDM23/blob/a31eb4e0b9190acaefd0b5737820ffc4a412a223/Project_slide.pdf)  
+
+
+
 
 
 
