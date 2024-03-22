@@ -14,12 +14,12 @@ Data preparation And Data Mining <br>
 
 # Homework
 - HW 1 Association Rule  
-[:cookie: :milk_glass:](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[:cookie: :milk_glass:](https://github.com/puttipongyy/BSC_DPDM23/blob/main/HW1_Group%20%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%89%E0%B8%A1.pdf)
 - HW 2 Decision Tree  
-[:seedling:](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[:seedling:](https://github.com/puttipongyy/BSC_DPDM23/blob/main/HW2_643021268-1.pdf)
 - HW 4 Decision Tree Parameter  
-:pencil: [Hand write](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
-:open_mouth: [Presentation](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+:pencil: [Hand write](https://github.com/puttipongyy/BSC_DPDM23/blob/main/HW4_criterionmax-leaf-nodes.pdf)  
+:open_mouth: [Presentation](https://github.com/puttipongyy/BSC_DPDM23/blob/main/HW4_Decision%20Tree_Presentation.pdf)
 
 
 # Project
