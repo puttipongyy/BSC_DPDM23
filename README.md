@@ -15,8 +15,9 @@ Data preparation And Data Mining <br>
 # Homework
 - HW 1 [:cookie: :milk_glass:](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - HW 2 [:seedling:](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-- HW 4 :pencil:[Hand write](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-[Presentation](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- HW 4  
+:pencil: [Hand write](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
+:open_mouth: [Presentation](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
 # Project
