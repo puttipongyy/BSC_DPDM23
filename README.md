@@ -13,17 +13,19 @@ Data preparation And Data Mining <br>
   Final Score = Score * %attendance
 
 # Homework
-- HW 1 [:cookie: :milk_glass:](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-- HW 2 [:seedling:](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-- HW 4  
+- HW 1 Association Rule  
+[:cookie: :milk_glass:](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- HW 2 Decision Tree  
+[:seedling:](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- HW 4 Decision Tree Parameter  
 :pencil: [Hand write](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
 :open_mouth: [Presentation](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
 # Project
-Project กลุ่ม 3 ทองประเสริฐ + กลุ้ม  
-[Collab](https://github.com/puttipongyy/BSC_DPDM23/blob/1c2ea524283782080ea4404255f129b8b1414c9f/Final_Project.ipynb) 
-[Presentation](https://github.com/puttipongyy/BSC_DPDM23/blob/a31eb4e0b9190acaefd0b5737820ffc4a412a223/Project_slide.pdf)  
+Project กลุ่ม 3 ทองประเสริฐ + กลุ้ม    
+:clap: [Colab](https://github.com/puttipongyy/BSC_DPDM23/blob/1c2ea524283782080ea4404255f129b8b1414c9f/Final_Project.ipynb)  
+:flushed: [Presentation](https://github.com/puttipongyy/BSC_DPDM23/blob/a31eb4e0b9190acaefd0b5737820ffc4a412a223/Project_slide.pdf)  
 
 ฮึ๊บๆ สู้ๆ [:musical_note:](https://www.youtube.com/watch?v=dQw4w9WgXcQ) :v:
 
