@@ -12,6 +12,9 @@ Data preparation And Data Mining <br>
 
   Final Score = Score * %attendance
 
+# Lecture
+- 
+
 # Homework
 - HW 1 Association Rule  
 [:cookie: :milk_glass:](https://github.com/puttipongyy/BSC_DPDM23/blob/main/HW1_Group%20%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%89%E0%B8%A1.pdf)
@@ -27,7 +30,7 @@ Project กลุ่ม 3 ทองประเสริฐ + กลุ้ม
 :clap: [Colab](https://github.com/puttipongyy/BSC_DPDM23/blob/1c2ea524283782080ea4404255f129b8b1414c9f/Final_Project.ipynb)  
 :flushed: [Presentation](https://github.com/puttipongyy/BSC_DPDM23/blob/a31eb4e0b9190acaefd0b5737820ffc4a412a223/Project_slide.pdf)  
 
-ฮึ๊บๆ สู้ๆ [:musical_note:](https://www.youtube.com/watch?v=dQw4w9WgXcQ) :v:
+ฮึ๊บๆ สู้ๆ [:musical_note:](https://www.youtube.com/watch?v=rmn7oV9bBRU) :v:
 
 
 
